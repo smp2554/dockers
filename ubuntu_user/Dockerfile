@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER The NamjungGu <nowage@gmail.com>
+MAINTAINER The ParkSuMin <smp2554@gmail.com>
 COPY ./start.sh /
 RUN chmod 755 /start.sh
 RUN apt update -y
